@@ -13,7 +13,7 @@ The Travel Journal Blog includes:
 
 ## Screenshots
 
-<img width="239" alt="image" src="https://github.com/LilaLiang/Travel-Journal/assets/103416879/c32949cc-cf6e-4894-b1d8-7866aa8bfedb">
+<img width="313" alt="image" src="https://github.com/LilaLiang/My-Travel-Journal/assets/103416879/ab64a025-5ba0-4419-b126-9150d31b96da">
 
 ## Live Deployment
 
