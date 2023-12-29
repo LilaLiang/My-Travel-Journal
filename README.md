@@ -17,7 +17,7 @@ The Travel Journal Blog includes:
 
 ## Live Deployment
 
-A live version of the Travel Journal Blog is deployed and accessible [[here](https://magnificent-salamander-325573.netlify.app/)]
+A live version of the Travel Journal Blog is deployed and accessible [here](https://magnificent-salamander-325573.netlify.app/)
 
 ## Usage
 
