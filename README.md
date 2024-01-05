@@ -32,7 +32,7 @@ To view or interact with the blog:
 - **HTML:** Markup language for the structure of the blog.
 - **CSS:** Stylesheet language for design and layout.
 - **JavaScript:** Programming language used for functionality.
-- **React:** JavaScript framework utilized for building the blog.
+- **React:** JavaScript framework utilized for building the blog
 
 
 
